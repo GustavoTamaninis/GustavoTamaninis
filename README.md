@@ -56,3 +56,11 @@ Me chamo Gustavo Henrique Tamanini de Souza, tenho 20 anos e sou natural de Join
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="DBeaver" 
+    title="DBeaver"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
+/>
