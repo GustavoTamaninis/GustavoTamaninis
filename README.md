@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gustavo, tenho 21 anos e sou natural de Joinville, Santa Catarina. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UniSENAI.
+Me chamo Gustavo, tenho 21 anos e sou natural de Joinville, Santa Catarina. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UniSENAI, almejando me tornar em um profissional resolvedor de problemas.
 
 ---
 
